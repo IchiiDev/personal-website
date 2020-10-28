@@ -1,6 +1,6 @@
 ---
 ---
-@import url('https://unpkg.com/primer/build/build.css');
+@import url('./build.css');
 @import 'highlight-syntax';
 
 
@@ -32,8 +32,8 @@
   }
 
   blockquote {
-    color: #6a737d;
-    border-left: 2px solid #959da5;
+    color: #393e46;
+    border-left: 2px solid #222831;
     padding-left: 16px;
     margin-bottom: 16px;
   }
